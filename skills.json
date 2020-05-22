@@ -1,0 +1,82 @@
+[
+	{
+		"id": 0,
+		"name": "HTML"
+	},
+	{
+		"id": 1,
+		"name": "CSS"
+	},
+	{
+		"id": 2,
+		"name": "JavaScript"
+	},
+	{
+		"id": 3,
+		"name": "JavaScript Frameworks"
+	},
+	{
+		"id": 4,
+		"name": "CSS Frameworks"
+	},
+	{
+		"id": 5,
+		"name": "Versioning Tools"
+	},
+	{
+		"id": 6,
+		"name": "C#/Java/Python"
+	},
+	{
+		"id": 7,
+		"name": "Database Language"
+	},
+	{
+		"id": 8,
+		"name": "XAML"
+	},
+	{
+		"id": 9,
+		"name": "API Integration"
+	},
+	{
+		"id": 10,
+		"name": "Analysis"
+	},
+	{
+		"id": 11,
+		"name": "Program Design"
+	},
+	{
+		"id": 12,
+		"name": "UX"
+	},
+	{
+		"id": 13,
+		"name": "Wireframing"
+	},
+	{
+		"id": 14,
+		"name": "C/C++"
+	},
+	{
+		"id": 15,
+		"name": "Game Engine"
+	},
+	{
+		"id": 16,
+		"name": "2D/3D Modeling"
+	},
+	{
+		"id": 17,
+		"name": "Object-Relational Mapping"
+	},
+	{
+		"id": 18,
+		"name": "Query Optimisation"
+	},
+	{
+		"id": 19,
+		"name": "Database Design"
+	}
+]

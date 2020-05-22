@@ -1,0 +1,226 @@
+[
+	{
+		"id": 0,
+		"name": "Front End Developer",
+		"skills": [
+					{
+						"id": 0,
+						"rating": 4
+					},
+					{
+						"id": 1,
+						"rating": 4
+					},
+					{
+						"id": 2,
+						"rating": 4
+					},
+					{
+						"id": 3,
+						"rating": 3
+					},
+					{
+						"id": 4,
+						"rating": 3
+					},
+					{
+						"id": 5,
+						"rating": 2
+					}
+				]
+	},
+	{
+		"id": 1,
+		"name": "Back End Developer",
+		"skills": [
+					{
+						"id": 5,
+						"rating": 3
+					},
+					{
+						"id": 6,
+						"rating": 4
+					},
+					{
+						"id": 7,
+						"rating": 3
+					}
+				]
+	},
+	{
+		"id": 2,
+		"name": "Full Stack Developer",
+		"skills": [
+					{
+						"id": 0,
+						"rating": 3
+					},
+					{
+						"id": 1,
+						"rating": 3
+					},
+					{
+						"id": 2,
+						"rating": 3
+					},
+					{
+						"id": 3,
+						"rating": 3
+					},
+					{
+						"id": 4,
+						"rating": 3
+					},
+					{
+						"id": 5,
+						"rating": 3
+					},
+					{
+						"id": 6,
+						"rating": 3
+					},
+					{
+						"id": 7,
+						"rating": 3
+					}
+				]
+	},
+	{
+		"id": 3,
+		"name": "Mobile Developer",
+		"skills": [
+					{
+						"id": 5,
+						"rating": 2
+					},
+					{
+						"id": 6,
+						"rating": 4
+					},
+					{
+						"id": 7,
+						"rating": 2
+					},
+					{
+						"id": 8,
+						"rating": 4
+					},
+					{
+						"id": 9,
+						"rating": 3
+					}
+				]
+	},
+	{
+		"id": 4,
+		"name": "Software Engineer",
+		"skills": [
+					{
+						"id": 5,
+						"rating": 3
+					},
+					{
+						"id": 6,
+						"rating": 4
+					},
+					{
+						"id": 7,
+						"rating": 3
+					},
+					{
+						"id": 10,
+						"rating": 4
+					},
+					{
+						"id": 11,
+						"rating": 4
+					}
+				]
+	},
+	{
+		"id": 5,
+		"name": "UI Designer",
+		"skills": [
+					{
+						"id": 0,
+						"rating": 2
+					},
+					{
+						"id": 1,
+						"rating": 4
+					},
+					{
+						"id": 4,
+						"rating": 3
+					},
+					{
+						"id": 10,
+						"rating": 4
+					},
+					{
+						"id": 12,
+						"rating": 5
+					},
+					{
+						"id": 13,
+						"rating": 5
+					}
+				]
+	},
+	{
+		"id": 6,
+		"name": "Game Developer",
+		"skills": [
+					{
+						"id": 5,
+						"rating": 3
+					},
+					{
+						"id": 7,
+						"rating": 2
+					},
+					{
+						"id": 10,
+						"rating": 2
+					},
+					{
+						"id": 14,
+						"rating": 4
+					},
+					{
+						"id": 15,
+						"rating": 4
+					},
+					{
+						"id": 16,
+						"rating": 3
+					}
+				]
+	},
+	{
+		"id": 7,
+		"name": "Database Engineer",
+		"skills": [
+					{
+						"id": 7,
+						"rating": 5
+					},
+					{
+						"id": 10,
+						"rating": 4
+					},
+					{
+						"id": 17,
+						"rating": 4
+					},
+					{
+						"id": 18,
+						"rating": 4
+					},
+					{
+						"id": 19,
+						"rating": 4
+					}
+				]
+	}
+]
